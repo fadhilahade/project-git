@@ -1,8 +1,8 @@
-#project-git
+# project-git
 
 This is my **first** project. 
 Check out [my profile](https://github.com/fadhilahade).
 
-##Features
+## Features
 
 -my markdown code
